@@ -1,0 +1,23 @@
+{
+  "name": "magic-dice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emily-Ke/Magic-Dice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emily-Ke/Magic-Dice/issues"
+  },
+  "homepage": "https://github.com/Emily-Ke/Magic-Dice#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

@@ -4,6 +4,7 @@ $(document).ready(function(){
     function handleRollButtonClick(){
         console.log("click me");
         $('#diceOne').html(calcDice());
+        $('#diceTwo').html(calcDice());
     }
 });
 function calcDice(){
